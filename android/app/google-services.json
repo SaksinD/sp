@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410004790939",
+    "project_id": "share-food-flutter-app",
+    "storage_bucket": "share-food-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410004790939:android:29ebcc48821c6d85ef303e",
+        "android_client_info": {
+          "package_name": "com.dreamtalkies.shareplateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFVj2IINjumJ6d1xMKsivKwRrlSGcblo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
