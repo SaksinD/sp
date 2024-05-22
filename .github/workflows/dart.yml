@@ -1,9 +1,5 @@
 name: iOS-ipa-build
 
-dependencies:
-  fab_circular_menu: ^latest_version
-
-
 on:
   workflow_dispatch:
 
